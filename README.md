@@ -1,2 +1,3 @@
 # Dbms-Project
-mini project
+mini project only frontend part 
+phase-begineing
